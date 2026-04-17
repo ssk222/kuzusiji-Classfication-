@@ -1,0 +1,6 @@
+*.pth
+*.pyc
+*.jpg
+*.csv
+data/
+__pycache__/
